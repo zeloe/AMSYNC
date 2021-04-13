@@ -9,7 +9,7 @@ Debugged on:
 Reaper v6.26
 OS: Mac OS Mojave 10.14.6
 
-Made with Juce:
+Made with Juce v6.0.8:
 https://juce.com/
 
 Envelope Code from:
