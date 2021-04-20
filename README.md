@@ -6,6 +6,8 @@ free and open to everyone interested in this.
 
 It basically checks BPM from host and modulates incoming audio in different time signatures.
 
+While the led is on Attack,Release and Phase can't be modified.
+
 Debugged on:
 Reaper v6.27
 OS: macOS Mojave 10.14.6
