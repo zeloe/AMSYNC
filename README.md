@@ -9,8 +9,8 @@ It basically checks BPM from host and modulates incoming audio in different time
 While the led is on Attack,Release and Phase can't be modified.
 
 Debugged on:
-Reaper v6.27
-OS: macOS Mojave 10.14.6
+Reaper v6.28
+OS: macOS BigSur 11.3.1
 
 Made with Juce v6.0.8:
 https://juce.com/

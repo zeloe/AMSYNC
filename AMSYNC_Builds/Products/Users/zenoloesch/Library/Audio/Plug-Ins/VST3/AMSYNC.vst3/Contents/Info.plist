@@ -2,34 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AudioComponents</key>
-	<array>
-		<dict>
-			<key>description</key>
-			<string>AMSYNC</string>
-			<key>factoryFunction</key>
-			<string>AMSYNCAUFactory</string>
-			<key>manufacturer</key>
-			<string>Manu</string>
-			<key>name</key>
-			<string>CodeZenAudio: AMSYNC</string>
-			<key>resourceUsage</key>
-			<dict>
-				<key>network.client</key>
-				<true/>
-				<key>temporary-exception.files.all.read-write</key>
-				<true/>
-			</dict>
-			<key>subtype</key>
-			<string>Za69</string>
-			<key>type</key>
-			<string>aufx</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>18G8022</string>
+	<string>20E241</string>
 	<key>CFBundleDisplayName</key>
 	<string>AMSYNC</string>
 	<key>CFBundleExecutable</key>
