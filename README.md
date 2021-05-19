@@ -26,5 +26,5 @@ https://github.com/teragonaudio/TeragonGuiComponents
 
 https://github.com/remberg/juceCustomSliderSample
 
-and some Stuff done in Max Jitter....
+
 
