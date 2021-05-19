@@ -28,4 +28,3 @@ https://github.com/remberg/juceCustomSliderSample
 
 and some Stuff done in Max Jitter....
 
-![WhatsApp Image 2021-04-20 at 13 26 49](https://user-images.githubusercontent.com/54742442/115390519-9a642c80-a1de-11eb-850e-24b2d6b8670c.jpeg)
